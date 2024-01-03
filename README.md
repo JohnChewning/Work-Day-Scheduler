@@ -10,7 +10,7 @@ The goal with this project was to create a simple calendar application that allo
 
 ## Installation
 
-Pushed the code into the github repository and deployed in into github pages. For review and grading purposes, the application is deployed at https:// /. 
+Pushed the code into the github repository and deployed in into github pages. For review and grading purposes, the application is deployed at [(https://johnchewning.github.io/Work-Day-Scheduler/)](https://johnchewning.github.io/Work-Day-Scheduler/). 
 
 ## Usage
 
